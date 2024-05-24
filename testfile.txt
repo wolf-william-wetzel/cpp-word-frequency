@@ -1,0 +1,12 @@
+This is a test file.
+There are various sentences and words contained within.
+Ectoplasm
+The most common letters used in English are "E", "T", "A", "O", "I", and "N".
+Great Britain is a large country, but the United States of America is larger.
+The roguelike is a very old genre of video game known for its unique game design.
+Traditional roguelikes tend to be more difficult and have simpler graphics.
+"Rox in the Box" is a song by the band The Decemberists.
+These sentences will be analyzed by a software program I wrote.
+America is larger than Great Britain.
+Does a roguelike have to be difficult?
+These are not alphabetical symbols: @ # $ % ^ &
